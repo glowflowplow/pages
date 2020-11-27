@@ -1,1 +1,1 @@
-# private_blog
+# pages
